@@ -5,7 +5,7 @@
 
 ## 软件架构
 -Libraries:							STM32 HAL库
--User/LoRaMac-node-master_moko:		LoraWan_SDK_V1.0.5
+-User/LoRaMac-node-master:		LoraWan_SDK
 -User/segger_rtt:					J-Link日志库
 -User/Src:							应用程序
 
